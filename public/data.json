@@ -4,8 +4,8 @@
         "author_name": "John Doe",
         "blog_title": "10 Tips for Effective Time Management",
         "images": {
-            "blog_cover_image": "https://example.com/images/cover.jpg",
-            "author_image": "https://example.com/images/author.jpg"
+            "blog_cover_image": "https://img.freepik.com/free-photo/front-view-female-student-black-jacket-wearing-backpack-posing-blue-wall-school-college-university-lessons-time_140725-43387.jpg?w=900&t=st=1680192295~exp=1680192895~hmac=9524c564eaf0dfaf29b6bf815e9ea4caf0239aae3132bf6d8a3287abe96e9e8d",
+            "author_image": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/710WzYnoIQL.jpg"
         },
         "read_time": "5 min",
         "publish_date": "2022-02-01"
@@ -15,8 +15,8 @@
         "author_name": "Jane Smith",
         "blog_title": "The Benefits of Meditation",
         "images": {
-            "blog_cover_image": "https://example.com/images/cover2.jpg",
-            "author_image": "https://example.com/images/author2.jpg"
+            "blog_cover_image": "https://img.freepik.com/free-photo/woman-meditating-nature_23-2147648519.jpg?size=626&ext=jpg&uid=R97912634&ga=GA1.2.1449832043.1680106006&semt=ais",
+            "author_image": "https://p.kindpng.com/picc/s/394-3947019_round-profile-picture-png-transparent-png.png"
         },
         "read_time": "10 min",
         "publish_date": "2022-02-15"
@@ -26,8 +26,8 @@
         "author_name": "David Lee",
         "blog_title": "How to Boost Your Productivity",
         "images": {
-            "blog_cover_image": "https://example.com/images/cover3.jpg",
-            "author_image": "https://example.com/images/author3.jpg"
+            "blog_cover_image": "https://img.freepik.com/free-photo/brunette-woman-sitting-desk-surrounded-with-gadgets-papers_273609-41508.jpg?w=740&t=st=1680192505~exp=1680193105~hmac=9ce00968c1766f02a7c1fedfdfafde59d72f714080eeaf807bb3d5db823a453d",
+            "author_image": "https://www.seekpng.com/png/detail/812-8125927_meg-circle-girl.png"
         },
         "read_time": "8 min",
         "publish_date": "2022-03-01"
@@ -37,8 +37,8 @@
         "author_name": "Sarah Johnson",
         "blog_title": "The Importance of Self-Care",
         "images": {
-            "blog_cover_image": "https://example.com/images/cover4.jpg",
-            "author_image": "https://example.com/images/author4.jpg"
+            "blog_cover_image": "https://img.freepik.com/free-photo/medium-shot-woman-tying-her-hair-indoors_23-2148879273.jpg?size=626&ext=jpg&ga=GA1.1.1449832043.1680106006&semt=ais",
+            "author_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQS0GX63JnbO5ba5U7a9l8WfLo_lbKrPS3UCA&usqp=CAU"
         },
         "read_time": "6 min",
         "publish_date": "2022-03-15"
