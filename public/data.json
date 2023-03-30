@@ -1,0 +1,46 @@
+[
+    {
+        "id": 1,
+        "author_name": "John Doe",
+        "blog_title": "10 Tips for Effective Time Management",
+        "images": {
+            "blog_cover_image": "https://example.com/images/cover.jpg",
+            "author_image": "https://example.com/images/author.jpg"
+        },
+        "read_time": "5 min",
+        "publish_date": "2022-02-01"
+    },
+    {
+        "id": 2,
+        "author_name": "Jane Smith",
+        "blog_title": "The Benefits of Meditation",
+        "images": {
+            "blog_cover_image": "https://example.com/images/cover2.jpg",
+            "author_image": "https://example.com/images/author2.jpg"
+        },
+        "read_time": "10 min",
+        "publish_date": "2022-02-15"
+    },
+    {
+        "id": 3,
+        "author_name": "David Lee",
+        "blog_title": "How to Boost Your Productivity",
+        "images": {
+            "blog_cover_image": "https://example.com/images/cover3.jpg",
+            "author_image": "https://example.com/images/author3.jpg"
+        },
+        "read_time": "8 min",
+        "publish_date": "2022-03-01"
+    },
+    {
+        "id": 4,
+        "author_name": "Sarah Johnson",
+        "blog_title": "The Importance of Self-Care",
+        "images": {
+            "blog_cover_image": "https://example.com/images/cover4.jpg",
+            "author_image": "https://example.com/images/author4.jpg"
+        },
+        "read_time": "6 min",
+        "publish_date": "2022-03-15"
+    }
+]
