@@ -6,11 +6,11 @@ const SideCard = ({ bm, readTime }) => {
     // console.log(readTime);
     return (
         <div>
-            <div className='text-center rounded-lg p-5 font-bold bg-purple-400'>
-                <p>Spent time on read : {readTime}</p>
+            <div className='text-center border rounded-lg border-purple-700 p-5'style={{backgroundColor : "rgba(115, 96, 236, 0.1)"}}>
+                <p className='text-purple-500'>Spent time on read : {readTime}</p>
             </div>
             <div className='rounded-lg p-5 font-bold bg-base-200 h-full mt-5'>
-                <h1 className='test-xl text-left ml-2 font-bold'>Bookmarked Blogs: { }</h1>
+                <h1 className='text-xl text-left ml-2 font-bold'>Bookmarked Blogs: { }</h1>
                 <div>
                     {bm.map(data => <p className='text-center rounded-lg p-5 font-bold bg-base-100 mt-5'>{data}</p>)}
                 </div>

@@ -23,7 +23,7 @@ const SingleCard = ({ blog, handleBm, handleReadTime }) => {
                     </div>
                     <div className='flex'>
                         <p className='text-slate-400'>{blog.read_time} read</p>
-                        <FontAwesomeIcon className='ml-3' onClick={() => handleBm(blog.blog_title)} icon={faBookmark} />
+                        <button className='btn-sm'><FontAwesomeIcon className='ml-3' onClick={() => handleBm(blog.blog_title)} icon={faBookmark} /></button>
                     </div>
                 </div>
                 <div className="card-body">

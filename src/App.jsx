@@ -11,7 +11,7 @@ function App() {
   const [bm, setBm] = useState([]);
   const handleBm = (id) => {
     if (bm.find(blogs => blogs === id)) {
-      toast.error('Already Bookmarked');
+      toast.error('You Have Already Bookmarked This Blog');
     } else {
       setBm([...bm, id]);
       toast.success('Bookmarked');
@@ -27,7 +27,7 @@ function App() {
       <Header></Header>
       <div className='lg:flex md:flex'>
         <div className='lg:w-[70%]'><BodyCards handleBm={handleBm} handleReadTime={handleReadTime}></BodyCards></div>
-        <div className='lg:w-[30%] mt-10 ml-5'><SideCard readTime={readTime} bm={bm}></SideCard></div>
+        <div className='lg:w-[30%] mt-10 ml-5 sticky'><SideCard readTime={readTime} bm={bm}></SideCard></div>
       </div>
       <ToastContainer />
     </div>
