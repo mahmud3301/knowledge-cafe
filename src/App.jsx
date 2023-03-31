@@ -5,8 +5,6 @@ import SideCard from './Components/SideCard/SideCard'
 import Header from './Components/Header/Header'
 
 function App() {
-  const [count, setCount] = useState(0)
-
   return (
     <div className="App w-full h-full">
       <Header></Header>

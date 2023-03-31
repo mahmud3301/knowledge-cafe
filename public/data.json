@@ -1,22 +1,22 @@
 [
     {
         "id": 1,
-        "author_name": "Nora Fatehi",
-        "blog_title": "How to Boost Your Productivity",
+        "author_name": "Vinod Kha",
+        "blog_title": "Mastering React: Advanced Techniques and Best Practices",
         "images": {
-            "blog_cover_image": "https://img.freepik.com/free-photo/young-stylish-woman-pink-luxury-dress-working-office-computer_285396-9681.jpg?size=626&ext=jpg&uid=R97912634&ga=GA1.2.1449832043.1680106006&semt=ais",
-            "author_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkN7335cLK6JCUK74p3jeMknHfEOJYrvOQ9Q&usqp=CAU"
+            "blog_cover_image": "https://img.freepik.com/free-photo/programming-background-with-person-working-with-codes-computer_23-2150010125.jpg?size=626&ext=jpg&uid=R97912634&ga=GA1.1.1449832043.1680106006&semt=sph",
+            "author_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoPczo_vgoWlnlzBDeqS-pne-zeV3UZ3j0UA&usqp=CAU"
         },
         "read_time": "8 min",
         "publish_date": "2022-03-01"
     },
     {
         "id": 2,
-        "author_name": "Jacqueline Fernandez",
-        "blog_title": "The Importance of Self-Care",
+        "author_name": "Mr. Watson",
+        "blog_title": "Building Scalable Web Applications with React",
         "images": {
-            "blog_cover_image": "https://img.freepik.com/free-photo/medium-shot-woman-tying-her-hair-indoors_23-2148879273.jpg?size=626&ext=jpg&ga=GA1.1.1449832043.1680106006&semt=ais",
-            "author_image": "https://cdn.siasat.com/wp-content/uploads/2021/10/jacqueline.jpg"
+            "blog_cover_image": "https://img.freepik.com/free-photo/rear-view-programmer-working-all-night-long_1098-18697.jpg?size=626&ext=jpg&uid=R97912634&ga=GA1.1.1449832043.1680106006&semt=sph",
+            "author_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwJOodu56jRG02_MSmAE3--e5vf0zumisvMw&usqp=CAU"
         },
         "read_time": "6 min",
         "publish_date": "2022-03-15"
@@ -24,9 +24,9 @@
     {
         "id": 3,
         "author_name": "Taylor Swift",
-        "blog_title": "The Benefits of Meditation",
+        "blog_title": "React Native: Building Cross-Platform Mobile Apps",
         "images": {
-            "blog_cover_image": "https://img.freepik.com/premium-photo/young-athletic-woman-swimsuit-practices-yoga-lotus-pose-while-sitting-stone-wild-beach_175682-2061.jpg?size=626&ext=jpg&uid=R97912634&ga=GA1.2.1449832043.1680106006&semt=ais",
+            "blog_cover_image": "https://img.freepik.com/free-photo/programming-background-with-person-working-with-codes-computer_23-2150010140.jpg?size=626&ext=jpg&uid=R97912634&ga=GA1.1.1449832043.1680106006&semt=sph",
             "author_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNfjO13Lx8dkKixSz_J_pz4YRwzdmy9poL2g&usqp=CAU"
         },
         "read_time": "10 min",
@@ -34,11 +34,11 @@
     },
     {
         "id": 4,
-        "author_name": "Lauren Gottlieb",
-        "blog_title": "10 Tips for Effective Time Management",
+        "author_name": "Lorem Ipsum",
+        "blog_title": "Creating Dynamic User Interfaces with React",
         "images": {
-            "blog_cover_image": "https://img.freepik.com/free-photo/cute-young-girl-model-holding-alarm-clock_144627-62425.jpg?size=626&ext=jpg&uid=R97912634&ga=GA1.1.1449832043.1680106006&semt=ais",
-            "author_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiidJglf9z-yL56yiNXuNlP4uA1vbGtjVvkg&usqp=CAU"
+            "blog_cover_image": "https://img.freepik.com/free-photo/professional-programmer-working-late-dark-office_1098-18705.jpg?size=626&ext=jpg&uid=R97912634&ga=GA1.1.1449832043.1680106006&semt=sph",
+            "author_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSro-990kUbpRfY7iACE6AsshtLlRr0PfgbPA&usqp=CAU"
         },
         "read_time": "5 min",
         "publish_date": "2022-02-01"

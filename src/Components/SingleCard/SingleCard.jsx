@@ -1,11 +1,12 @@
 import React from 'react';
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
+import { faBookmark } from '@fortawesome/free-solid-svg-icons'
 
-const SingleCard = ({blog}) => {
+const SingleCard = ({ blog,handleBm }) => {
     return (
         <div>
             <div className="card card-compact max-w-full bg-base-100 shadow-xl mt-5">
-                <figure><img className='w-full max-h-96' src={blog.images.blog_cover_image}/></figure><br />
-
+                <figure><img className='w-full h-96' src={blog.images.blog_cover_image} /></figure><br />
                 <div className='flex justify-between'>
                     <div className='flex'>
                         <div className='text-start ml-3'>
@@ -21,7 +22,7 @@ const SingleCard = ({blog}) => {
                         </div>
                     </div>
                     <div>
-                        <p className='text-slate-400'>{blog.read_time}</p>
+                        <p className='text-slate-400'>{blog.read_time} read <FontAwesomeIcon onClick={()=>handleBm(blog.blog_title)} icon={faBookmark} /></p>
                     </div>
                 </div>
                 <div className="card-body">
