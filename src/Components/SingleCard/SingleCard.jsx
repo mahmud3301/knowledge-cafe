@@ -2,7 +2,7 @@ import React from 'react';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faBookmark } from '@fortawesome/free-solid-svg-icons'
 
-const SingleCard = ({ blog, handleBm, handleReadTime }) => {
+const SingleCard = ({ blog, handleBm, handleReadTime}) => {
     return (
         <div>
             <div className="card card-compact max-w-full bg-base-100 shadow-xl mt-5">

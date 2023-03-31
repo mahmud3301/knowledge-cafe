@@ -3,9 +3,9 @@ import React from 'react';
 const Header = () => {
     return (
         <div>
-            <div className="navbar bg-base-200 rounded-3xl">
+            <div className="navbar rounded-3xl">
                 <div className="flex-1">
-                    <a className="btn btn-ghost normal-case text-xl">daisyUI</a>
+                    <a className="btn btn-ghost normal-case text-xl font-bold">Knowledge Cafe</a>
                 </div>
                 <div className="flex-none gap-2">
                     <div className="dropdown dropdown-end">

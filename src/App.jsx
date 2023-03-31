@@ -21,13 +21,14 @@ function App() {
   const handleReadTime = (time) => {
     const newReadTime = parseInt(readTime) + parseInt(time);
     setReadTime(newReadTime);
-    console.log(newReadTime);
   }
   return (
     <div className="App w-full h-full">
       <Header></Header>
+      <hr className='border-base-200 mt-3 mx-auto' /><br />
       <div className='lg:flex md:flex'>
         <div className='lg:w-[70%]'><BodyCards handleBm={handleBm} handleReadTime={handleReadTime}></BodyCards></div>
+
         <div className='lg:w-[30%] mt-10 ml-5 sticky'><SideCard readTime={readTime} bm={bm}></SideCard></div>
       </div>
       <ToastContainer />
