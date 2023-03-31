@@ -5,6 +5,7 @@ import SideCard from './Components/SideCard/SideCard'
 import Header from './Components/Header/Header'
 import { ToastContainer, toast } from 'react-toastify';
 import 'react-toastify/dist/ReactToastify.css';
+import FaqQue from './Components/FaqQue/FaqQue'
 
 function App() {
   const [readTime, setReadTime] = useState(0);
@@ -30,6 +31,9 @@ function App() {
         <div className='lg:w-[30%] mt-10 ml-5 sticky'><SideCard readTime={readTime} bm={bm}></SideCard></div>
       </div>
       <ToastContainer />
+      <br /><br />
+      <hr className='border-purple-500 w-72 mx-auto' /><br /><br />
+      <FaqQue></FaqQue>
     </div>
   )
 }

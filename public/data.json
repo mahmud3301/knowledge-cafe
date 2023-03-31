@@ -1,7 +1,7 @@
 [
     {
         "id": 1,
-        "author_name": "Vinod Kha",
+        "author_name": "Jhankar Mahbub",
         "blog_title": "Mastering React: Advanced Techniques and Best Practices",
         "images": {
             "blog_cover_image": "https://img.freepik.com/free-photo/programming-background-with-person-working-with-codes-computer_23-2150010125.jpg?size=626&ext=jpg&uid=R97912634&ga=GA1.1.1449832043.1680106006&semt=sph",
@@ -12,7 +12,7 @@
     },
     {
         "id": 2,
-        "author_name": "Mr. Watson",
+        "author_name": "Gias Uddin",
         "blog_title": "Building Scalable Web Applications with React",
         "images": {
             "blog_cover_image": "https://img.freepik.com/free-photo/rear-view-programmer-working-all-night-long_1098-18697.jpg?size=626&ext=jpg&uid=R97912634&ga=GA1.1.1449832043.1680106006&semt=sph",
@@ -34,7 +34,7 @@
     },
     {
         "id": 4,
-        "author_name": "Lorem Ipsum",
+        "author_name": "Mahmudul Hasan Mahi",
         "blog_title": "Creating Dynamic User Interfaces with React",
         "images": {
             "blog_cover_image": "https://img.freepik.com/free-photo/professional-programmer-working-late-dark-office_1098-18705.jpg?size=626&ext=jpg&uid=R97912634&ga=GA1.1.1449832043.1680106006&semt=sph",
