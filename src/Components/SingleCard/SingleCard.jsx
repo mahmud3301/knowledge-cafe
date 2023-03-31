@@ -2,7 +2,7 @@ import React from 'react';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faBookmark } from '@fortawesome/free-solid-svg-icons'
 
-const SingleCard = ({ blog,handleBm }) => {
+const SingleCard = ({ blog,handleBm,handleReadTime}) => {
     return (
         <div>
             <div className="card card-compact max-w-full bg-base-100 shadow-xl mt-5">
@@ -31,7 +31,7 @@ const SingleCard = ({ blog,handleBm }) => {
                         <p>#beginners <span className='ml-3'>#programming</span></p>
                     </div>
                     <div className='text-start'>
-                        <a className="link link-accent">Mark as read</a>
+                        <a className="link link-accent" onClick={handleReadTime(blog.read_time)}>Mark as read</a>
                     </div>
                 </div>
             </div>
