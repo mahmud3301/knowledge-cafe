@@ -1,46 +1,46 @@
 [
     {
         "id": 1,
-        "author_name": "John Doe",
-        "blog_title": "10 Tips for Effective Time Management",
-        "images": {
-            "blog_cover_image": "https://img.freepik.com/free-photo/front-view-female-student-black-jacket-wearing-backpack-posing-blue-wall-school-college-university-lessons-time_140725-43387.jpg?w=900&t=st=1680192295~exp=1680192895~hmac=9524c564eaf0dfaf29b6bf815e9ea4caf0239aae3132bf6d8a3287abe96e9e8d",
-            "author_image": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/710WzYnoIQL.jpg"
-        },
-        "read_time": "5 min",
-        "publish_date": "2022-02-01"
-    },
-    {
-        "id": 2,
-        "author_name": "Jane Smith",
-        "blog_title": "The Benefits of Meditation",
-        "images": {
-            "blog_cover_image": "https://img.freepik.com/free-photo/woman-meditating-nature_23-2147648519.jpg?size=626&ext=jpg&uid=R97912634&ga=GA1.2.1449832043.1680106006&semt=ais",
-            "author_image": "https://p.kindpng.com/picc/s/394-3947019_round-profile-picture-png-transparent-png.png"
-        },
-        "read_time": "10 min",
-        "publish_date": "2022-02-15"
-    },
-    {
-        "id": 3,
-        "author_name": "David Lee",
+        "author_name": "Nora Fatehi",
         "blog_title": "How to Boost Your Productivity",
         "images": {
-            "blog_cover_image": "https://img.freepik.com/free-photo/brunette-woman-sitting-desk-surrounded-with-gadgets-papers_273609-41508.jpg?w=740&t=st=1680192505~exp=1680193105~hmac=9ce00968c1766f02a7c1fedfdfafde59d72f714080eeaf807bb3d5db823a453d",
-            "author_image": "https://www.seekpng.com/png/detail/812-8125927_meg-circle-girl.png"
+            "blog_cover_image": "https://img.freepik.com/free-photo/young-stylish-woman-pink-luxury-dress-working-office-computer_285396-9681.jpg?size=626&ext=jpg&uid=R97912634&ga=GA1.2.1449832043.1680106006&semt=ais",
+            "author_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkN7335cLK6JCUK74p3jeMknHfEOJYrvOQ9Q&usqp=CAU"
         },
         "read_time": "8 min",
         "publish_date": "2022-03-01"
     },
     {
-        "id": 4,
-        "author_name": "Sarah Johnson",
+        "id": 2,
+        "author_name": "Jacqueline Fernandez",
         "blog_title": "The Importance of Self-Care",
         "images": {
             "blog_cover_image": "https://img.freepik.com/free-photo/medium-shot-woman-tying-her-hair-indoors_23-2148879273.jpg?size=626&ext=jpg&ga=GA1.1.1449832043.1680106006&semt=ais",
-            "author_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQS0GX63JnbO5ba5U7a9l8WfLo_lbKrPS3UCA&usqp=CAU"
+            "author_image": "https://cdn.siasat.com/wp-content/uploads/2021/10/jacqueline.jpg"
         },
         "read_time": "6 min",
         "publish_date": "2022-03-15"
+    },
+    {
+        "id": 3,
+        "author_name": "Taylor Swift",
+        "blog_title": "The Benefits of Meditation",
+        "images": {
+            "blog_cover_image": "https://img.freepik.com/premium-photo/young-athletic-woman-swimsuit-practices-yoga-lotus-pose-while-sitting-stone-wild-beach_175682-2061.jpg?size=626&ext=jpg&uid=R97912634&ga=GA1.2.1449832043.1680106006&semt=ais",
+            "author_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNfjO13Lx8dkKixSz_J_pz4YRwzdmy9poL2g&usqp=CAU"
+        },
+        "read_time": "10 min",
+        "publish_date": "2022-02-15"
+    },
+    {
+        "id": 4,
+        "author_name": "Lauren Gottlieb",
+        "blog_title": "10 Tips for Effective Time Management",
+        "images": {
+            "blog_cover_image": "https://img.freepik.com/free-photo/cute-young-girl-model-holding-alarm-clock_144627-62425.jpg?size=626&ext=jpg&uid=R97912634&ga=GA1.1.1449832043.1680106006&semt=ais",
+            "author_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiidJglf9z-yL56yiNXuNlP4uA1vbGtjVvkg&usqp=CAU"
+        },
+        "read_time": "5 min",
+        "publish_date": "2022-02-01"
     }
 ]
